@@ -1,0 +1,1 @@
+ develop a Grammar Scoring Engine for spoken data samples. Dataset has audio files between 45 to 60 seconds long. The ground truth labels are MOS Likert Grammar Scores for each audio instance. The model  takes an audio file as input and outputs a continuous score ranging from 0 to 5.
